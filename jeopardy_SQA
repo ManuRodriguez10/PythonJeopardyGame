@@ -1,0 +1,114 @@
+{
+  "categories": {
+    "baseball": {
+      "$200": {
+        "clue": "This legendary New York Yankees player holds the record for the most career home runs in Major League Baseball.",
+        "answer": "Babe Ruth"
+      },
+      "$400": {
+        "clue": "The Chicago Cubs play their home games at this historic stadium, known for its ivy-covered outfield walls.",
+        "answer": "Wrigley Field"
+      },
+      "$600": {
+        "clue": "This pitching statistic measures the number of strikeouts a pitcher records per nine innings pitched.",
+        "answer": "strikeouts per nine"
+      },
+      "$800": {
+        "clue": "In 2020, this team won the World Series, marking their first championship in over 30 years.",
+        "answer": "Los Angeles Dodgers"
+      },
+      "$1000": {
+        "clue": "The 'Green Monster' is a famous feature in this ballpark, home to the Boston Red Sox.",
+        "answer": "Fenway Park"
+      }
+    },
+    "soccer": {
+      "$200": {
+        "clue": "Lionel Messi spent the majority of his career playing for this football club based in Barcelona.",
+        "answer": "FC Barcelona"
+      },
+      "$400": {
+        "clue": "The FIFA World Cup is held every how many years?",
+        "answer": "four years"
+      },
+      "$600": {
+        "clue": "This country hosted the 2018 FIFA World Cup.",
+        "answer": "Russia"
+      },
+      "$800": {
+        "clue": "The UEFA Champions League final is an annual competition to determine the best club team in this continent.",
+        "answer": "Europe"
+      },
+      "$1000": {
+        "clue": "This Brazilian soccer legend is often referred to as 'The King' and won three FIFA World Player of the Year awards.",
+        "answer": "Pele"
+      }
+    },
+    "basketball": {
+      "$200": {
+        "clue": "Michael Jordan played the majority of his career with this NBA team.",
+        "answer": "Chicago Bulls"
+      },
+      "$400": {
+        "clue": "The NCAA basketball tournament is commonly known as this, based on the number of participating teams.",
+        "answer": "March Madness"
+      },
+      "$600": {
+        "clue": "The 'Dream Team' in basketball, featuring NBA superstars, competed in the 1992 Olympics in this city.",
+        "answer": "Barcelona"
+      },
+      "$800": {
+        "clue": "In 2016, this NBA team came back from a 3-1 deficit in the NBA Finals to win the championship.",
+        "answer": "Cleveland Cavaliers"
+      },
+      "$1000": {
+        "clue": "This NBA player, known as 'The Greek Freak,' won the MVP award in both 2019 and 2020.",
+        "answer": "Giannis Antetokounmpo"
+      }
+    },
+    "football": {
+      "$200": {
+        "clue": "The Super Bowl is the championship game of this professional football league.",
+        "answer": "NFL"
+      },
+      "$400": {
+        "clue": "This quarterback, known for his time with the New England Patriots, has won seven Super Bowl championships.",
+        "answer": "Tom Brady"
+      },
+      "$600": {
+        "clue": "This college football conference is known for its passionate fanbase and the tradition of the 'Iron Bowl.'",
+        "answer": "SEC"
+      },
+      "$800": {
+        "clue": "The Vince Lombardi Trophy is awarded to the winner of this annual championship game.",
+        "answer": "Super Bowl"
+      },
+      "$1000": {
+        "clue": "This team, based in Green Bay, Wisconsin, is known for its unique ownership structure and is the only publicly owned team in the NFL.",
+        "answer": "Green Bay Packers"
+      }
+    },
+    "Olympics": {
+      "$200": {
+        "clue": "The Olympic Games held in 1984 were hosted by this city.",
+        "answer": "Los Angeles"
+      },
+      "$400": {
+        "clue": "This American sprinter won four gold medals in the 1936 Olympics, defying Adolf Hitler's notions of Aryan superiority.",
+        "answer": "Jesse Owens"
+      },
+      "$600": {
+        "clue": "The United States boycotted the 1980 Summer Olympics held in this city, in protest of the Soviet invasion of Afghanistan.",
+        "answer": "Moscow"
+      },
+      "$800": {
+        "clue": "The Summer and Winter Olympics were both held in the same year until the Olympic schedule was staggered, beginning in this year.",
+        "answer": "1994"
+      },
+      "$1000": {
+        "clue": "This gymnast, often referred to as 'America's Sweetheart,' won the all-around gold medal in the 1996 Olympics.",
+        "answer": "Kerri Strug"
+      }
+    }
+  }
+}
